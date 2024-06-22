@@ -18,11 +18,6 @@ This project implements the classic Hangman game in Python with a unique twist. 
 4. Incorrect guesses deduct one point from the starting 10 points.
 5. The game ends when the word is guessed correctly or the player runs out of points.
 
-## Files
-- `hangman.py`: Main game logic and functions for playing the game.
-- `hangman_helper.py`: Helper functions and utilities used in the game.
-- `words.txt`: Contains the list of words used for the game.
-  
 ## Running the Game
 - Open your terminal or command prompt.
 - Navigate to the directory where the game files are located.
