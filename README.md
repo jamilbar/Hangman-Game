@@ -3,12 +3,12 @@
 This project implements the classic Hangman game in Python with a unique twist. Players try to guess a hidden word by suggesting letters within a certain number of guesses. Unlike the original game, there is no hangman figure. Instead, players start with 10 points, and each incorrect guess deducts one point. If the player reaches zero points, they lose. Correct guesses of letters that appear multiple times in the word will increase the player's point tally. Players can also choose to guess the whole word at once.
 
 # Features
-Random word selection from a predefined list.
-Text-based user interface.
-Keeps track of guessed letters and remaining points.
-Displays the progress of the word being guessed.
-Allows players to guess the whole word.
-Simple and intuitive game flow.
+1.Random word selection from a predefined list.
+2.Text-based user interface.
+3.Keeps track of guessed letters and remaining points.
+4.Displays the progress of the word being guessed.
+5.Allows players to guess the whole word.
+6.Simple and intuitive game flow.
 # How to Play
 The game randomly selects a word from a list.
 The player guesses one letter at a time or chooses to guess the whole word.
